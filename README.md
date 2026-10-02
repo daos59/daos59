@@ -10,28 +10,28 @@ I enjoy turning ideas into functional prototypes through an iterative engineerin
 
 My main areas of experience include:
 
-- 🖨️ **Additive Manufacturing** — FDM/FFF, DfAM, engineering materials and multimaterial printing
-- ⚙️ **CAD & Mechanical Design** — Fusion 360, Inventor and SolidWorks
-- 🔥 **Digital Manufacturing** — Laser cutting, engraving and PCB prototyping
-- 🔌 **Electronics** — PCB assembly, THT/SMD soldering and electromechanical integration
-- 💻 **Embedded Systems** — ESP32, ESP-IDF and arduino
-- 🛠️ **Rapid Prototyping** — From concept and CAD to manufacturing, assembly and testing
+-  **Additive Manufacturing** — FDM/FFF, DfAM, engineering materials and multimaterial printing
+-  **CAD & Mechanical Design** — Fusion 360, Inventor and SolidWorks
+-  **Digital Manufacturing** — Laser cutting, engraving and PCB prototyping
+-  **Electronics** — PCB assembly, THT/SMD soldering and electromechanical integration
+-  **Embedded Systems** — ESP32, ESP-IDF and arduino
+-  **Rapid Prototyping** — From concept and CAD to manufacturing, assembly and testing
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### DOKI — Water Valve Automation System
 
 Electromechanical system for the remote operation of water distribution valves, combining mechanical design, additive manufacturing, ESP32 embedded systems, custom electronics and field testing.
 
-🚧 **Currently under active development**
+**Currently under active development**
 
 > Full project documentation coming soon.
 
 ---
 
-## 🧰 Technologies & Tools
+## Technologies & Tools
 
 **CAD & Manufacturing**
 
@@ -59,7 +59,7 @@ Some of my 3D printing projects and designs are available on:
 
 ---
 
-## 📫 Contact
+## Contact
 
 **Daniel Andrés Oliva Salvatierra**
 
