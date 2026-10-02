@@ -39,7 +39,7 @@ Electromechanical system for the remote operation of water distribution valves, 
 
 **Embedded & Electronics**
 
-`ESP32` `ESP-IDF` `ESP-NOW` `Arduino` `STM32` `THT` `SMD`
+`ESP32` `ESP-IDF` `ESP-NOW` `Arduino` `THT` `SMD`
 
 **Programming**
 
